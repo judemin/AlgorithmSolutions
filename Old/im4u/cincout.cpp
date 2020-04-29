@@ -1,0 +1,15 @@
+/*
+#include<iostream>
+#include<string>
+using namespace std;
+string s;
+
+
+int main()
+{
+	cin >> s;
+	cin >> s;
+	cout << s;
+	cout << s;
+}
+*/
